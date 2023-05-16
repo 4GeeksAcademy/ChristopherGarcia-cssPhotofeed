@@ -1,0 +1,52 @@
+body{
+    background: lightgray;
+    margin: 0;
+
+}
+
+.nav{
+    background: white;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav h1{
+    margin: 0;
+    
+}
+
+.card{
+    background: white;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.img img{
+    width: 100%;
+}
+
+.card-container{
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.card h2,
+p
+{
+    padding: 10px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+span{
+    padding: 10px;
+    color: grey;
+}
+
